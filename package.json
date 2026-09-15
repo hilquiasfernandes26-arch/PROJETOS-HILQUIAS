@@ -1,7 +1,7 @@
 {
-  "name": "jogo-phaser",
+  "name": "meu_jogo_phaser",
   "version": "1.0.0",
-  "description": "",
+  "description": "Meu primeiro jogo com Phaser",
   "main": "index.js",
   "scripts": {
     "dev": "vite"
@@ -9,12 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
-    "phaser": "^4.2.1"
+    "phaser": "^3.90.0"
   },
   "devDependencies": {
-    "vide": "^0.5.1",
     "vite": "^8.3.0"
   }
 }
